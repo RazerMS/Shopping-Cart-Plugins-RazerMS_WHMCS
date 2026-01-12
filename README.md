@@ -7,6 +7,9 @@
 
 Razer Merchant Services Plugin for WHMCS Shopping Cart developed by Razer Merchant Services R&D team.
 
+UPDATE NOTICE
+-----------------
+Latest Shopping Cart plugin WHMCS moved to new URL https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_WHMCS
 
 Supported version
 -----------------
@@ -19,7 +22,7 @@ Notes
 
 Razer Merchant Services is not responsible for any problems that might arise from the use of this module. 
 Use at your own risk. Please backup any critical data before proceeding. For any query or 
-assistance, please email support-sa@fiuu.com 
+assistance, please email support@fiuu.com 
 
 
 Installations
@@ -46,16 +49,16 @@ You can contribute to this plugin by sending the pull request to this repository
 Issues
 ------------
 
-Submit issue to this repository or email to our support-sa@fiuu.com
+Submit issue to this repository or email to our support@fiuu.com
 
 
 Support
 -------
 
-Merchant Technical Support / Customer Care : support-sa@fiuu.com <br>
-Sales/Reseller Enquiry : sales-sa@fiuu.com <br>
-Marketing Campaign : marketing-sa@fiuu.com <br>
-Channel/Partner Enquiry : channel-sa@fiuu.com <br>
-Media Contact : media-sa@fiuu.com <br>
-R&D and Tech-related Suggestion : technical-sa@fiuu.com <br>
-Abuse Reporting : abuse-sa@fiuu.com
+Merchant Technical Support / Customer Care : support@fiuu.com <br>
+Sales/Reseller Enquiry : sales@fiuu.com <br>
+Marketing Campaign : marketing@fiuu.com <br>
+Channel/Partner Enquiry : channel@fiuu.com <br>
+Media Contact : media@fiuu.com <br>
+R&D and Tech-related Suggestion : technical@fiuu.com <br>
+Abuse Reporting : abuse@fiuu.com
